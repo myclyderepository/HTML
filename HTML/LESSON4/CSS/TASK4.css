@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.FIRST {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 400%;
+}
+
+p.SECOND {
+    text-align: right;
+    font-size: 50%;
+    color: darkgreen;
+    font-weight: 900;
+    text-transform: uppercase
+}
+
+p.THIRD {
+    color: red;
+    text-decoration: line-through;
+    font-weight: 100;
+}
